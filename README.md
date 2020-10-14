@@ -1,5 +1,5 @@
 ### Allan Vidal
-[![Twitter Badge](https://img.shields.io/badge/-allanfvc-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allanfvc)](https://twitter.com/allanfvc)  [![Linkedin Badge](https://img.shields.io/badge/-allanfvc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/)
+[![Twitter Badge](https://img.shields.io/badge/-allanfvc-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/allanfvc)](https://twitter.com/allanfvc)  [![Linkedin Badge](https://img.shields.io/badge/-allanfvc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanfvc//)](https://www.linkedin.com/in/allanfvc/)
 
 ### About
 
