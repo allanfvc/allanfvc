@@ -8,7 +8,19 @@
 -  **Frameworks :** [![Angular Badge](https://img.shields.io/badge/-Angular-red?&logo=angular&logoColor=white)](https://angular.io) , [![Spring Badge](https://img.shields.io/badge/-Spring-green?&logo=spring&logoColor=white)](https://spring.io)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=allanfvc" alt="Allan Vidal" /> </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=allanfvc&show_icons=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=allanfvc&show_icons=true&hide_border=true&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanfvc&layout=compact&show_icons=true&hide_border=true"
+    />
+  </a>
+</p>
